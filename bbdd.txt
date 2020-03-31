@@ -1,0 +1,45 @@
+Ramon Gonzales,398431123,5,0
+Lucas Perez,78987321,33,0
+Lucas Perez,78987321,20,0
+Juan Perez,123123,0,0
+Juan Perez,123123,1,0
+Juan Perez,123123,3,0
+Lucas Rodriguez,443322,0,0
+Lucas Rodriguez,443322,1,0
+Lucas Rodriguez,443322,2,0
+Lucas Rodriguez,443322,3,0
+Francisco Roq,444333,33,0
+Juan Martinez,321,3,0
+Martina Ramirez,123123,3,0
+Jorge Perez,1231231,32,0
+Juana Goas,4433,0,0
+Juana Goas,4433,4,0
+JORGE,1234,0,0
+JORGE,1234,0,0
+Profesor A,986945,0,1
+Profesor B,986946,0,1
+Profesor Ramires,886945,1,1
+Juana Goas,4433,31,0
+Lucas Mann,3998,0,0
+Lucas Mann,3998,1,0
+Ramon Peralta,334,0,0
+Ramon Peralta,334,1,0
+Ramon Peralta,334,2,0
+Ramon Peralta,334,3,0
+Ana Benitez,7788,5,0
+Ana Benitez,7788,6,0
+Ana Benitez,7788,7,0
+Martina Jhonsons,331111,0,0
+Martina Jhonsons,331111,2,0
+Martina Jhonsons,331111,3,0
+Martina Jhonsons,331111,4,0
+Martina Jhonsons,331111,5,0
+Lucas,123123,0,0
+Lucas,123123,33,0
+Nicolas,55,0,0
+Nicolas,55,1,0
+Nicolas,55,4,0
+lucas,23,0,0
+rAMON,445,33,0
+dIEGO cARBONELLA,39810220,1,0
+dIEGO cARBONELLA,39810220,2,0

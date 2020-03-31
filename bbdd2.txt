@@ -1,0 +1,23 @@
+
+Diego Carbonella,39810220,30,1
+Diego Carbonella,39810220,20,1
+Lucas Perez,78987321,33,0
+Lucas Perez,78987321,20,0
+Diego Carbonella,39810220,30,1
+Diego Carbonella,39810220,30,1
+Diego Carbonella,39810220,30,1
+Diego Carbonella,39810220,30,1
+Diego Carbonella,39810220,30,1
+Diego Carbonella,39810220,30,1
+Diego Carbonella,39810220,30,1
+Diego Carbonella,39810220,30,1
+Juan Perez,123123,0,0
+Juan Perez,123123,1,0
+Juan Perez,123123,3,0
+Diego Carbonella,39810220,30,1
+Lucas Rodriguez,443322,0,0
+Lucas Rodriguez,443322,1,0
+Lucas Rodriguez,443322,2,0
+Lucas Rodriguez,443322,3,0
+Diego Carbonella,39810220,30,1
+Francisco Roq,444333,33,0
